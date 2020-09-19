@@ -1,4 +1,4 @@
-# Template - Master Detail
+# Template - OpenUI5 Master Detail
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-openui5-master-detail.svg)](https://github.com/dirigiblelabs/template-openui5-master-detail/graphs/contributors)
